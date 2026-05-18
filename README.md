@@ -1,3 +1,8 @@
+
+
+
+
+
 # ☕ Cafe Management System
 
 <p align="center">
@@ -17,7 +22,7 @@ A comprehensive, desktop-based **Cafe Management System** designed to automate d
 ## 🎥 System Walkthrough & Demo
 
 <p align="center">
-  <video src="demo/Project%20demo.mp4" width="85%" controls muted autoplay loop></video>
+  <video src="https://github.com/user-attachments/assets/71e90dc1-763d-429d-b439-0d0747e4c787" width="85%" controls muted autoplay loop></video>
 </p>
 
 ---
