@@ -18,7 +18,7 @@ A comprehensive, desktop-based **Cafe Management System** designed to automate d
 
 <p align="center">
   <!-- Replace the src path below with your actual video or GIF file path -->
-  <img src="Project demo.mp4" alt="Project Demo Walkthrough" width="85%">
+  <img src="demo/Project demo.mp4" alt="Project Demo Walkthrough" width="85%">
 </p>
 
 ---
@@ -53,32 +53,32 @@ A comprehensive, desktop-based **Cafe Management System** designed to automate d
     <td align="center" width="50%"><b>📝 Registration Screen</b></td>
   </tr>
   <tr>
-    <td><img src="Sign in.png" width="100%" alt="Sign in"></td>
-    <td><img src="Register.png" width="100%" alt="Register"></td>
+    <td><img src="screenshots/Sign in.png" width="100%" alt="Sign in"></td>
+    <td><img src="screenshots/Register.png" width="100%" alt="Register"></td>
   </tr>
   <tr>
     <td align="center"><b>📊 Main Dashboard</b></td>
     <td align="center"><b>🛍️ Order Management</b></td>
   </tr>
   <tr>
-    <td><img src="Dashboard.png" width="100%" alt="Dashboard"></td>
-    <td><img src="Order.png" width="100%" alt="Order"></td>
+    <td><img src="screenshots/Dashboard.png" width="100%" alt="Dashboard"></td>
+    <td><img src="screenshots/Order.png" width="100%" alt="Order"></td>
   </tr>
   <tr>
     <td align="center"><b>🧾 Receipt Generation</b></td>
     <td align="center"><b>➕ Add Product (Inventory)</b></td>
   </tr>
   <tr>
-    <td><img src="Receipt.png" width="100%" alt="Receipt"></td>
-    <td><img src="Add product.png" width="100%" alt="Add Product"></td>
+    <td><img src="screenshots/Receipt.png" width="100%" alt="Receipt"></td>
+    <td><img src="screenshots/Add product.png" width="100%" alt="Add Product"></td>
   </tr>
   <tr>
     <td align="center"><b>👥 Add Customer</b></td>
     <td align="center"><b>👁️ View Order History</b></td>
   </tr>
   <tr>
-    <td><img src="Add customer.png" width="100%" alt="Add Customer"></td>
-    <td><img src="View order.png" width="100%" alt="View Order"></td>
+    <td><img src="screenshots/Add customer.png" width="100%" alt="Add Customer"></td>
+    <td><img src="screenshots/View order.png" width="100%" alt="View Order"></td>
   </tr>
 </table>
 
