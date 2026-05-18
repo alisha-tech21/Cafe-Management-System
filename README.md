@@ -17,8 +17,7 @@ A comprehensive, desktop-based **Cafe Management System** designed to automate d
 ## 🎥 System Walkthrough & Demo
 
 <p align="center">
-  <!-- Replace the src path below with your actual video or GIF file path -->
-  <img src="demo/Project demo.mp4" alt="Project Demo Walkthrough" width="85%">
+  <video src="demo/Project demo.mp4" width="85%" controls muted autoplay loop></video>
 </p>
 
 ---
